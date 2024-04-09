@@ -1,0 +1,29 @@
+.header{
+    color: aliceblue;
+    height: 300px;
+    background-image: url('https://images.pexels.com/photos/56866/garden-rose-red-pink-56866.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+h3{
+    font-size: 30px;
+    text-decoration: underline;
+}
+.second{
+    display: none;
+}
+
+.forth{
+    visibility: hidden;
+}
+
+.blog {
+    margin: 40px;
+    border: 10px solid red;
+    box-shadow: 10px  10px 20px;
+}
+.part {
+    border: 2px solid peru;
+    height: 50px;
+    display: inline-block;
+}

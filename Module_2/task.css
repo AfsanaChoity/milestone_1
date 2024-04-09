@@ -1,0 +1,20 @@
+.second {
+    background-color: pink;
+            margin: 10px;
+            padding: 10px;
+            text-align: justify;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            border: 5px solid palevioletred;
+            border-radius: 10px;
+            box-shadow: 10px 10px 20px blueviolet;
+}
+
+#image {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNm6RgX46vPY8T8h6V_U0442yaBA5hL2VyyA&usqp=CAU);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    height: 300px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow: 10px 10px 20px blue;
+
+}

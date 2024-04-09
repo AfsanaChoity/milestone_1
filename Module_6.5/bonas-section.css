@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.box-girl{
+    display: flex;
+    justify-content: space-between;
+}
+.container .rect-angle img{
+    width: 100%;
+    position: absolute;
+    top: 400px;
+}
+.box{
+    position: relative;
+    z-index: 1;
+}
+.round{
+    position: absolute;
+    left: 700px;
+    top: -20px;
+}
